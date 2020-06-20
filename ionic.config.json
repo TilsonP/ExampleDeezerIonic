@@ -1,5 +1,7 @@
 {
   "name": "ApiTask",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
